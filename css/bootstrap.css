@@ -10715,3 +10715,14 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+*{
+  font-family: 'Kanit', sans-serif;
+}
+
+.container .container-fluid{
+  background: rgb(1, 116, 39);
+
+}
+.page-footer {
+  background: rgb(96, 173, 109);
+}
